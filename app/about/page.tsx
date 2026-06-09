@@ -5,7 +5,8 @@ const About: React.FC = () => {
     return (
         <>
         <AboutVariable/> 
-        </>)
+        </>
+        )
 }
 
 export default About;
